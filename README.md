@@ -10,3 +10,5 @@
 Skills: ANGULAR / JS / HTML5 / CSS/SCSS / BOOTSTRAP / GIT / SQL
 
 - 🔭 I’m currently working on this page. 
+
+Check out my repos ⬇️
