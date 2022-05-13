@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Eduardo Petrilli, Frontend Developer
 
 
-[![Linkedin: eduardopetrilli](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://https://www.linkedin.com/in/eduardo-petrilli-628a62159/)
+[![Linkedin: eduardopetrilli](https://https://https://www.linkedin.com/in/eduardo-petrilli-628a62159/)
 ![](https://visitor-badge.glitch.me/badge?page_id=petrillii.petrillii)
 
 ### aboutMe.js
