@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Eduardo Petrilli, Frontend Developer
 
 
-[![Linkedin: eduardopetrilli](https://https://https://www.linkedin.com/in/eduardo-petrilli-628a62159/)
+[![Linkedin: Eduardo Petrilli](https://www.linkedin.com/in/eduardo-petrilli-628a62159/)
 ![](https://visitor-badge.glitch.me/badge?page_id=petrillii.petrillii)
 
 ### aboutMe.js
