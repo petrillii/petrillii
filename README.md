@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **petrillieduardo4@gmail.com**
 
-- ⚡ Fun fact **In my free time, I go to the gym, play guitar and play some games.**
+- ⚡ Fun fact **I prefer Tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
