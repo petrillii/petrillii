@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **petrillieduardo4@gmail.com**
 
-- ⚡ Fun fact **I prefer Tea**
+- ⚡ Fun fact **I prefer tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
