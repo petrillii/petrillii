@@ -4,7 +4,7 @@
 <p align="left">- 🖥️ I'm a Full-Stack Developer working with angular and .NET framework<br><br>-📱 I really love programming in Flutter, it's like a hobby. I'm currently developing a personal trainer app<br><br>- 🌱 I’m currently learning about NodeJs, MongoDb and React<br><br>- 💬 Ask me about Angular or .NET6<br><br>- 📫 reach me on my email: petrillieduardo4@gmail.com</p>
 
 ###
-<img href="https://github.com/petrillii/petrillii/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/petrillii/petrillii/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 <div align="center">
