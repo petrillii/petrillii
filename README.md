@@ -4,16 +4,6 @@
 <p align="left">- 🖥️ I'm a Full-Stack Developer working with Angular and .NET framework<br><br>-📱 I really love programming in Flutter, it's like a hobby. I'm currently developing a personal trainer app<br><br>- 🌱 I’m currently learning about NodeJs, MongoDb and React<br><br>- 💬 Ask me about Angular or .NET6<br><br>- 📫 reach me on my email: petrillieduardo4@gmail.com</p>
 
 ###
-<img src="https://github.com/petrillii/petrillii/blob/output/github-contribution-grid-snake.gif" alt="snake"  />
-
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=petrillii" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=petrillii" height="150" alt="languages graph"  />
-</div>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
