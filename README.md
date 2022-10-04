@@ -4,8 +4,9 @@
 <p align="left">- 🖥️ I'm a Full-Stack Developer working with Angular and .NET framework<br><br>-📱 I really love programming in Flutter, it's like a hobby. I'm currently developing a personal trainer app<br><br>- 🌱 I’m currently learning about NodeJs, MongoDb and React<br><br>- 💬 Ask me about Angular or .NET6<br><br>- 📫 reach me on my email: petrillieduardo4@gmail.com</p>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrillii&show_icons=true&locale=en&layout=compact" alt="petrillii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrillii&show_icons=true&locale=en&layout=compact" alt="petrillii" /></p>
 
+###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petrillii&show_icons=true&locale=en" alt="petrillii" /></p>
 
 ###
