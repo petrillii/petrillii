@@ -7,9 +7,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrillii&show_icons=true&locale=en&layout=compact" alt="petrillii" /></p>
 
 ###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petrillii&show_icons=true&locale=en" alt="petrillii" /></p>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -32,13 +29,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardo-petrilli/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/kh8pymw0u97albx1i9t1c7dc4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kh8pymw0u97albx1i9t1c7dc4&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
